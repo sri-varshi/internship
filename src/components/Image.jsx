@@ -2,9 +2,9 @@ import React, { useState, useEffect } from 'react';
 import './Image.css';
 
 const images = [
-  '/images/download(1).jpg',
-  '/images/download(1).jpg',
-  '/images/download(1).jpg',
+  "../images/download (1).jpg",
+  "../images/download (1).jpg",
+  "../images/download (1).jpg"
   
 ];
 

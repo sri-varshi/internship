@@ -19,7 +19,7 @@ function Home() {
             </section>
             <section className="home-section">
                 <div className="home-image">
-                    <img src="images/download.jpg" alt="Hall 2" />
+                    <img src="images/download (1).jpg" alt="Hall 1" />
                 </div>
                 <div className="home-text">
                     <h2>Modern Amenities</h2>
@@ -28,7 +28,7 @@ function Home() {
             </section>
             <section className="home-section">
                 <div className="home-image">
-                    <img src="images/images (1).jpg" alt="Hall 3" />
+                    <img src="images/download (1).jpg" alt="Hall 1" />
                 </div>
                 <div className="home-text">
                     <h2>Prime Locations</h2>

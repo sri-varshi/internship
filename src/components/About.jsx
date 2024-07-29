@@ -20,7 +20,7 @@ function About() {
             </section>
             <section className="about-section">
                 <div className="about-image">
-                    <img src="../images/download.jpg" alt="Why Choose Us" />
+                    <img src="../images/download (1).jpg" alt="Our Mission" />
                 </div>
                 <div className="about-text">
                     <h2>Why Choose Us</h2>
@@ -35,7 +35,7 @@ function About() {
             </section>
             <section className="about-section">
                 <div className="about-image">
-                    <img src="../images/images (1).jpg" alt="Contact Information" />
+                    <img src="../images/download (1).jpg" alt="Our Mission" />
                 </div>
                 <div className="about-text">
                     <h2>Contact Information</h2>

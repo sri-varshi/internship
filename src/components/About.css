@@ -23,7 +23,8 @@
 .about-image {
     display: block;
     margin: 0 auto;
-    max-width: 100%;
+    width: fit-content;
+    padding: 30px;
     height: auto;
     border-radius: 8px;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
